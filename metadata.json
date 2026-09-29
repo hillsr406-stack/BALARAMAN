@@ -1,0 +1,6 @@
+{
+  "name": "Balaram Studio",
+  "description": "Personal productivity suite, focus timer, project planner, notes scratchpad, and daily agenda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
